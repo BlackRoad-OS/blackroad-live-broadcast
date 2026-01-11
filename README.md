@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Live Broadcast
+# BlackRoad Live Broadcast
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Live streaming platform with multi-destination broadcasting.
 
-## 🚀 Quick Start
+## Features
+- **Multi-Stream** - Broadcast to YouTube, Twitch, etc.
+- **Studio** - Professional streaming interface
+- **Overlays** - Custom graphics and alerts
+- **Chat Integration** - Unified chat management
+- **Analytics** - Viewer metrics and engagement
+- **Recording** - Automatic stream archiving
 
-```bash
-./blackroad-live-broadcast.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
